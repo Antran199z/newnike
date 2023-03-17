@@ -1,0 +1,5 @@
+export const GET_USER_NAME="GET_USER_NAME"
+export const GET_USER_EMAIL="GET_USER_EMAIL"
+export const GET_USER_PASSWORD="GET_USER_PASSWORD"
+export const GET_USER_AGE="GET_USER_AGE"
+// export const SIGNUP = "SIGNUP";

@@ -1,6 +1,7 @@
+
 import { useEffect } from "react";
-import * as ActionType from "../content/content";
-import API from "../../../../../axios/API";
+import * as ActionType from "../Content/content";
+import API from "../../../../../Axios/API";
 
 // export const emitOpenSignUp = (openSU) => {
 //   console.log(openSU);

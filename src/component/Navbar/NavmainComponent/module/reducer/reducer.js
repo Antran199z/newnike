@@ -1,10 +1,10 @@
-import * as Action from "../action/action";
+import * as Action from "../Action/action";
 import {
   GET_USER_AGE,
   GET_USER_EMAIL,
   GET_USER_NAME,
   GET_USER_PASSWORD,
-} from "../content/content";
+} from "../Content/content";
 const userLocal=JSON.parse(localStorage.getItem("user"))
 let initState = {
   user:userLocal,
